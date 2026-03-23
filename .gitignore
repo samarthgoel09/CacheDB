@@ -1,0 +1,5 @@
+# CacheDB — Build artifacts
+build/
+*.o
+*.exe
+dump.cdb
