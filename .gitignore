@@ -4,7 +4,3 @@ build2/
 *.o
 *.exe
 dump.cdb
-
-# Local review notes. This repository is already public, so this file is kept out
-# of it deliberately rather than committed and deleted before going public.
-UNVERIFIED.md
