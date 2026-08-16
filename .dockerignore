@@ -1,0 +1,9 @@
+build/
+build2/
+*.exe
+*.o
+dump.cdb
+.git/
+README.md
+UNVERIFIED.md
+InstallationLog.txt
